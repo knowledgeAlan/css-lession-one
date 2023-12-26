@@ -8,12 +8,18 @@
     cursor: pointer;
 }
 
-.buttonClass:hover{
+/* .buttonClass:hover{
     background-color: black;
 }
 
 .buttonClass:active{
     background-color: aqua;
 }
+ */
 
-
+.buttonClass:link{
+    background-color:brown;
+}
+.buttonClass:visited {
+    background-color: blueviolet;
+}

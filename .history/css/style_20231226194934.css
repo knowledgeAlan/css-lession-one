@@ -17,3 +17,9 @@
 }
 
 
+.buttonClass:link{
+    background-color:azure;
+}
+.buttonClass:visited {
+    background-color: blueviolet;
+}
